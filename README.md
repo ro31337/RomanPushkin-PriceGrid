@@ -38,6 +38,43 @@ License
 
 MIT
 
+По-русски
+=========
+
+Индикатор рисует горизонтальную сетку на основе округленных цен. Например, 140 000, 135 000, 130 000 и т.д. Вы можете переключаться между пятью режимами отображения для того, чтобы найти тот режим, с которым вам будет удобнее всего работать на текущем рынке.
+
+Как установить
+--------------
+
+* Создайте директорию "RomanPushkin" на вашем жестком диске C:\Users\\__ВАШЕ\_ИМЯ\_ПОЛЬЗОВАТЕЛЯ__\AppData\Roaming\MetaQuotes\Terminal\\__ДЛИННЫЙ_ИДЕНТИФИКАТОР__\MQL5\Indicators\ 
+
+* Скопируйте исходный код индикатора (файл RomanPushkin-PriceGrid.mq5) в C:\Users\\__ВАШЕ\_ИМЯ\_ПОЛЬЗОВАТЕЛЯ__\AppData\Roaming\MetaQuotes\Terminal\\__ДЛИННЫЙ_ИДЕНТИФИКАТОР__\MQL5\Indicators\RomanPushkin\
+
+* Перетащите индикатор из панели "Навигатор" на ваш график:
+
+![romanpushkin-pricegrid-add-indicator](https://f.cloud.github.com/assets/1477672/1893691/f295f2ae-7aad-11e3-9971-d9705001ba52.gif)
+
+Как использовать
+----------------
+
+Переключайте режим отображения с помощью кнопок в правом углу графика, чтобы найти сетку, которая вас устроит.
+
+![romanpushkin-pricegrid-buttons](https://f.cloud.github.com/assets/1477672/1893696/d3da5a20-7aae-11e3-9dfe-b0644dda5100.gif)
+
+
+См.также
+--------
+
+* [RomanPushkin-FORTS-Info] - отображает основную информацию по тикеру, специально для площадки ФОРТС
+* [RomanPushkin-Daily-Grid] - рисует линии в начале каждого дня
+* [RomanPushkin-Hourly-Grid] - рисует горизонтальные линии в начале каждого часа
+
+Лицензия
+--------
+
+MIT
+
+
 [RomanPushkin-FORTS-Info]:https://github.com/ro31337/RomanPushkin-FORTS-Info
 [RomanPushkin-Daily-Grid]:https://github.com/ro31337/RomanPushkin-DailyGrid
 [RomanPushkin-Hourly-Grid]:https://github.com/ro31337/RomanPushkin-HourlyGrid
